@@ -1,0 +1,5 @@
+.venv
+--pychace
+*.pychace
+.env
+.git

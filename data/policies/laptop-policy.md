@@ -1,0 +1,2 @@
+# Company Laptop Policy
+The standard company laptop replacement cycle is **four years**, subject to device condition and business need. The policy does **not** specify a future laptop brand or model. Damaged devices must be reported to IT Support; employees should not arrange an unauthorized replacement themselves.

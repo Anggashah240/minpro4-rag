@@ -1,0 +1,2 @@
+# Software Installation Policy
+Employees must obtain **IT approval before installing non-standard software** on company-managed devices. Software acquired through unapproved channels must not be installed. Requests should include the business need and required application name.

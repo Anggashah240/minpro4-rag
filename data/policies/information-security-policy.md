@@ -1,0 +1,2 @@
+# Information Security Policy
+Passwords, access tokens, API keys, and other credentials must not be shared through chat, email, source code, or support tickets. Company information must be handled according to its classification and accessed only by authorized users.

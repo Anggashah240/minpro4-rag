@@ -1,0 +1,2 @@
+# Remote Work Policy
+Eligible employees may work remotely for **up to two days per week**, subject to manager approval and operational requirements. Remote work does not change information-security obligations.

@@ -1,0 +1,2 @@
+# Annual Leave Policy
+All full-time employees receive **14 working days of annual leave per calendar year**. Leave must be approved by the employee's manager before travel or other commitments are made. Unused leave is handled according to local HR rules.

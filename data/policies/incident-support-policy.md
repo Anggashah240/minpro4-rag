@@ -1,0 +1,2 @@
+# Device Incident Support Policy
+If a company laptop is damaged, lost, or unusable, the employee must **contact IT Support and create or reference an incident ticket**. Do not attempt unauthorized repair. If travel is imminent, tell IT Support the travel date so the request can be triaged.

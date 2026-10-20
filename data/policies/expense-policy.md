@@ -1,0 +1,2 @@
+# Expense Claim Policy
+Business expenses must be supported by valid receipts. Employees should submit expense claims **within 10 business days after the expense or trip ends**. Claims outside the period may require additional approval.

@@ -1,0 +1,9 @@
+services:
+  agent-backend:
+    build: .
+    container_name: agent-backend
+    ports:
+     - "8000:8000"
+    env_file:
+     - .env
+    restart: unless-stopped
